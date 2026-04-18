@@ -1,7 +1,7 @@
 # Marketing Campaign ROI Performance Dashboard
 ## Executive Summary
 - Analyzed **$32.9M profit vs $22.5M** spend across 8 marketing campaigns (2024–2025)
-**- 4 campaigns outperforming, 3 underperforming, 1 near target**
+- **4 campaigns outperforming, 3 underperforming, 1 near target**
 - High-performing campaigns consistently exceed **130% ROI target**
 - Underperformers show weak **lifetime ROI and inconsistent trends**
 - Clear opportunity to **reallocate budget toward high-ROI campaigns and channels**  
@@ -21,28 +21,28 @@ Marketing budget allocation lacked clarity on:
 - Used **DAX** for dynamic titles, KPI comparisons, and campaign classification
 - Analyzed **current vs lifetime performance and 12-month ROI trends**
 ## Key Insights  
--** Top Performers (Scale)** → Strong, consistent ROI above targets
+- **Top Performers (Scale)** → Strong, consistent ROI above targets
   - Cyber Monday: **188.01% ROI | 153.41% lifetime**
   - Back to School: **160.61% ROI | 149.99% lifetime**
   - Summer Promo: **137.95% ROI | 145.85% lifetime**
   - New Year Push: **131.76% ROI | 146.37% lifetime**
 
-- **Underperformers (Fix or Reduce) ** → Volatile trends and weak classification signals
+- **Underperformers (Fix or Reduce)** → Volatile trends and weak classification signals
   - Winter Sale: **110.79% ROI | 140.70% lifetime**
   - Spring Launch: **168.09% ROI | 144.44% lifetime**
   - Black Friday: **134.42% ROI | 144.43% lifetime**
 
-**- Optimization Opportunity **→ Declining recent trend despite strong history
+- **Optimization Opportunity** → Declining recent trend despite strong history
   - Holiday Deals: **118.36% ROI | 145.14% lifetime**
 
-**- Channel Performance**
+- **Channel Performance**
   - Affiliate dominates: **27.24% of total profit**
   - Instagram: **14.62%,** strong secondary driver
   - Lowest: Email (**4.98%**), TikTok (**6.27%**)
-**- Regional Distribution**
+- **Regional Distribution**
   - West (**25.62%**) and East (**24.19%**) lead profit contribution
   - Central underperforms at **14.95%**
-**- Overall Performance**
+- **Overall Performance**
   - Total Profit: **$32.9M**
   - Total Spend: **$22.5M**
 
