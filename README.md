@@ -12,16 +12,15 @@ I analyzed marketing campaigns' performance to evaluate return on investment (RO
 
 ## Revenue growth lacked clarity on:
 
--Whether growth was driven by customer demand or spending behavior
--Early signs of declining engagement and retention risk
--How to balance order volume vs order value for sustainable growth  
+- Whether growth was driven by customer demand or spending behavior
+- Early signs of declining engagement and retention risk
+- How to balance order volume vs order value for sustainable growth  
 
 ## Approach  
-
--Extracted and transformed data using SQL
-Built structured pipelines using:
-  -CTEs
-  -Aggregations and KPI calculations
+- Extracted and transformed data using SQL
+- Built structured pipelines using:
+  - CTEs
+  - Aggregations and KPI calculations
 Designed core KPIs:
 Revenue, Orders, AOV, MoM growth
 Conducted basket size analysis to identify root cause
