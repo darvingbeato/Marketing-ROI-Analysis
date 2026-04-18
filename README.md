@@ -16,7 +16,7 @@ I analyzed marketing campaigns' performance to evaluate return on investment (RO
 -Early signs of declining engagement and retention risk
 -How to balance order volume vs order value for sustainable growth  
 
-### Approach  
+###Approach  
 
 -Extracted and transformed data using SQL
 Built structured pipelines using:
