@@ -58,8 +58,6 @@ Marketing budget allocation lacked clarity on:
   - Expected: Maximize return from proven high-performing channels
 - Rebalance regional strategy toward West and East
   - Expected: Improve ROI efficiency across markets
-
-
 ## Skills Demonstrated
 - Advanced **Power BI dashboard design**
 - **DAX (dynamic KPIs, classifications, conditional logic)**
