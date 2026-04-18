@@ -10,7 +10,8 @@ Marketing budget allocation lacked clarity on:
 - Which campaigns deliver sustainable ROI
 - Which channels and regions drive profitability
 - Where to optimize or reduce spend
-# Approach  
+## Approach  
+### Approach  
 - Built interactive Power BI dashboard with dynamic filtering (period, campaign, channel, region)
 - Designed KPIs: Revenue, Profit, Spend, ROI (vs prior period)
 - Implemented ROI targets:
