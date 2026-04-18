@@ -10,9 +10,9 @@ Marketing budget allocation lacked clarity on:
 - Which campaigns deliver sustainable ROI
 - Which channels and regions drive profitability
 - Where to optimize or reduce spend
-## Approach  
+
 ### Approach  
-- Built interactive Power BI dashboard with dynamic filtering (period, campaign, channel, region)
+- Built an interactive Power BI dashboard with dynamic filtering (period, campaign, channel, region)
 - Designed KPIs: Revenue, Profit, Spend, ROI (vs prior period)
 - Implemented ROI targets:
   - Monthly: 130%
@@ -50,7 +50,7 @@ Marketing budget allocation lacked clarity on:
 - Reallocate budget to top campaigns (Cyber Monday, Back to School)
   - Expected: Higher overall ROI and profit growth
 - Optimize Holiday Deals campaign
-  - Focus on reversing declining ROI trend
+  - Focus on reversing the declining ROI trend
   - Risk: Continued deterioration if ignored
 - Reduce or restructure Winter Sale and Black Friday
   - Expected: Eliminate inefficient spend
