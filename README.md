@@ -1,7 +1,9 @@
 # Marketing Campaign ROI Performance Dashboard
 ## Executive Summary
-- Analyzed $32.9M profit vs $22.5M spend across 8 marketing campaigns (2024–2025)
-- 4 campaigns outperforming, 3 underperforming, 1 near target
+- Analyzed **$32.9M profit vs $22.5M** spend across 8 marketing campaigns (2024–2025)
+**- 4 campaigns outperforming, 3 underperforming, 1 near target**
+  ***- 4 campaigns outperforming, 3 underperforming, 1 near target***
+  ****- 4 campaigns outperforming, 3 underperforming, 1 near target****
 - High-performing campaigns consistently exceed 130% ROI target
 - Underperformers show weak lifetime ROI and inconsistent trends
 - Clear opportunity to reallocate budget toward high-ROI campaigns and channels  
