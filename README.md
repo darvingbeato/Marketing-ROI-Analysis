@@ -1,59 +1,68 @@
-# Marketing-ROI-Analysis  
-I analyzed marketing campaigns' performance to evaluate return on investment (ROI) and optimize marketing budget allocation.
-## Executive Summary  
-- Revenue grew +3.33% MoM, but driven by AOV (+4.8%), not demand
-- Total orders declined -1.4% MoM, signaling weakening customer activity
-- Growth fueled by larger basket sizes (+14.44%), not more customers
-- Indicates short-term gains but risk to long-term sustainability
-- Opportunity to rebalance strategy: increase order volume while maintaining AOV  
+# Marketing Campaign ROI Performance Dashboard
+## Executive Summary
+- Analyzed $32.9M profit vs $22.5M spend across 8 marketing campaigns (2024–2025)
+- 4 campaigns outperforming, 3 underperforming, 1 near target
+- High-performing campaigns consistently exceed 130% ROI target
+- Underperformers show weak lifetime ROI and inconsistent trends
+- Clear opportunity to reallocate budget toward high-ROI campaigns and channels  
 ## Business Problem  
-## Revenue growth lacked clarity on:  
-- Whether growth was driven by customer demand or spending behavior
-- Early signs of declining engagement and retention risk
-- How to balance order volume vs order value for sustainable growth  
-## Approach  
-- Extracted and transformed data using SQL
-- Built structured pipelines using:
-  - CTEs
-  - Aggregations and KPI calculations
-- Designed core KPIs:
-  - Revenue, Orders, AOV, MoM growth
-- Conducted basket size analysis to identify root cause
-- Developed an interactive Power BI dashboard for tracking performance  
+Marketing budget allocation lacked clarity on:
+- Which campaigns deliver sustainable ROI
+- Which channels and regions drive profitability
+- Where to optimize or reduce spend
+# Approach  
+- Built interactive Power BI dashboard with dynamic filtering (period, campaign, channel, region)
+- Designed KPIs: Revenue, Profit, Spend, ROI (vs prior period)
+- Implemented ROI targets:
+  - Monthly: 130%
+  - Quarterly: 135%
+  - Yearly: 140%
+- Used DAX for dynamic titles, KPI comparisons, and campaign classification
+- Analyzed current vs lifetime performance and 12-month ROI trends
 ## Key Insights  
-- Growth Not Demand-Driven
-  - Revenue: +3.33%
-  - AOV: +4.8%
-  - Orders: -1.4%
-##→ Growth driven by higher spend per order, not increased demand
-Basket Size = Root Cause
-Large baskets (4+ items): +14.44%
-Small baskets: -10% to -12%
-→ Customers buying more per transaction, not more frequently
-Customer Behavior Risk
-Declining order volume suggests:
-Lower engagement
-Reduced purchase frequency
-→ Early signal of retention issues
-Sustainability Concern
-Over-reliance on AOV growth
-→ Risk of stagnation or decline if order volume continues to drop
-Recommendations
-Launch re-engagement campaigns (inactive / low-frequency customers)
-Expected: Increase order volume and customer activity
-Continue bundle and upsell strategies
-Expected: Maintain strong AOV performance
-Track customer segments (new vs returning)
-Expected: Identify retention gaps early
-Balance growth strategy (Volume + Value)
-Expected: Sustainable long-term revenue growth
-Risk: Continued dependence on AOV may mask declining demand
-Dashboard / Output
+- Top Performers (Scale) → Strong, consistent ROI above targets
+  - Cyber Monday: 188.01% ROI | 153.41% lifetime
+  - Back to School: 160.61% ROI | 149.99% lifetime
+  - Summer Promo: 137.95% ROI | 145.85% lifetime
+  - New Year Push: 131.76% ROI | 146.37% lifetime
 
-Skills Demonstrated
-Advanced SQL (CTEs, aggregations, KPI modeling)
-Power BI dashboard development
-MoM performance analysis
-Root cause analysis (basket size impact)
-Business-focused KPI design
-Data storytelling & actionable insights
+- Underperformers (Fix or Reduce) → Volatile trends and weak classification signals
+  - Winter Sale: 110.79% ROI | 140.70% lifetime
+  - Spring Launch: 168.09% ROI | 144.44% lifetime
+  - Black Friday: 134.42% ROI | 144.43% lifetime
+
+- Optimization Opportunity → Declining recent trend despite strong history
+  - Holiday Deals: 118.36% ROI | 145.14% lifetime
+
+- Channel Performance
+  - Affiliate dominates: 27.24% of total profit
+  - Instagram: 14.62%, strong secondary driver
+  - Lowest: Email (4.98%), TikTok (6.27%)
+- Regional Distribution
+  - West (25.62%) and East (24.19%) lead profit contribution
+  - Central underperforms at 14.95%
+- Overall Performance
+  - Total Profit: $32.9M
+  - Total Spend: $22.5M
+
+## Recommendations
+- Reallocate budget to top campaigns (Cyber Monday, Back to School)
+  - Expected: Higher overall ROI and profit growth
+- Optimize Holiday Deals campaign
+  - Focus on reversing declining ROI trend
+  - Risk: Continued deterioration if ignored
+- Reduce or restructure Winter Sale and Black Friday
+  - Expected: Eliminate inefficient spend
+- Double down on Affiliate and Instagram channels
+  - Expected: Maximize return from proven high-performing channels
+- Rebalance regional strategy toward West and East
+  - Expected: Improve ROI efficiency across markets
+
+
+## Skills Demonstrated
+- Advanced Power BI dashboard design
+- DAX (dynamic KPIs, classifications, conditional logic)
+- ROI and KPI modeling
+- Trend analysis (L12M performance)
+- Data storytelling & business recommendations
+- Interactive filtering (campaign, channel, region, period)
