@@ -2,21 +2,21 @@
 I analyzed marketing campaigns' performance to evaluate return on investment (ROI) and optimize marketing budget allocation.
 
 ## Executive Summary
--Revenue grew +3.33% MoM, but driven by AOV (+4.8%), not demand
--Total orders declined -1.4% MoM, signaling weakening customer activity
--Growth fueled by larger basket sizes (+14.44%), not more customers
--Indicates short-term gains but risk to long-term sustainability
--Opportunity to rebalance strategy: increase order volume while maintaining AOV  
+- Revenue grew +3.33% MoM, but driven by AOV (+4.8%), not demand
+- Total orders declined -1.4% MoM, signaling weakening customer activity
+- Growth fueled by larger basket sizes (+14.44%), not more customers
+- Indicates short-term gains but risk to long-term sustainability
+- Opportunity to rebalance strategy: increase order volume while maintaining AOV  
 
 ## Business Problem
 
-###Revenue growth lacked clarity on:
+## Revenue growth lacked clarity on:
 
 -Whether growth was driven by customer demand or spending behavior
 -Early signs of declining engagement and retention risk
 -How to balance order volume vs order value for sustainable growth  
 
-###Approach  
+## Approach  
 
 -Extracted and transformed data using SQL
 Built structured pipelines using:
