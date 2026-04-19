@@ -1,6 +1,6 @@
 # Marketing Campaign ROI Performance Dashboard
 ## Executive Summary
-- Analyzed **$32.9M profit vs $22.5M** spend across 8 marketing campaigns (2024–2025)
+- Analyzed **$32.918M profit vs $22.488M** spend across 8 marketing campaigns (01/01/2024 – 08/23/2025)
 - **4 campaigns outperforming, 3 underperforming, 1 near target**
 - High-performing campaigns consistently exceed **130% ROI target**
 - Underperformers show weak **lifetime ROI and inconsistent trends**
@@ -43,20 +43,20 @@ Marketing budget allocation lacked clarity on:
   - West (**25.62%**) and East (**24.19%**) lead profit contribution
   - Central underperforms at **14.95%**
 - **Overall Performance**
-  - Total Profit: **$32.9M**
-  - Total Spend: **$22.5M**
+  - Total Profit: **32.918M**
+  - Total Spend: **$22.488M**
 
 ## Recommendations
-- Reallocate budget to top campaigns (Cyber Monday, Back to School)
+- Reallocate budget to top campaigns (**Cyber Monday, Back to School**)
   - Expected: Higher overall ROI and profit growth
 - Optimize Holiday Deals campaign
   - Focus on reversing the declining ROI trend
   - Risk: Continued deterioration if ignored
-- Reduce or restructure Winter Sale and Black Friday
+- Reduce or restructure **Winter Sale and Black Friday**
   - Expected: Eliminate inefficient spend
-- Double down on Affiliate and Instagram channels
+- Double down on A**ffiliate and Instagram** channels
   - Expected: Maximize return from proven high-performing channels
-- Rebalance regional strategy toward West and East
+- Rebalance regional strategy toward **West and East**
   - Expected: Improve ROI efficiency across markets
 ## Skills Demonstrated
 - Advanced **Power BI dashboard design**
