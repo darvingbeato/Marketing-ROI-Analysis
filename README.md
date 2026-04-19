@@ -55,7 +55,7 @@ Marketing budget allocation lacked clarity on:
   - Affiliate dominates: **27.24% of total profit.**
   - Instagram: **14.62%,** strong secondary driver
   - Lowest: Email (**4.98%**), TikTok (**6.27%**)
-  <img width="608" height="379" alt="image" src="https://github.com/user-attachments/assets/947cf5b0-1710-41a7-b901-9e6b4d5b4540" />  
+  <img width="607" height="377" alt="image" src="https://github.com/user-attachments/assets/947cf5b0-1710-41a7-b901-9e6b4d5b4540" />  
 
 - **Regional Distribution**
   - West (**25.62%**) and East (**24.19%**) lead profit contribution
