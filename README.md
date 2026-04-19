@@ -26,26 +26,26 @@ Marketing budget allocation lacked clarity on:
 ## Key Insights  
 - **Top Performers (Scale)** → Strong, consistent ROI above targets
   - Cyber Monday: **188.01% ROI | 153.41% lifetime**
-    <img width="663" height="452" alt="image" src="https://github.com/user-attachments/assets/d8f82823-2fe9-4db0-8c2d-d4f1e7af6c6a" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/d8f82823-2fe9-4db0-8c2d-d4f1e7af6c6a" />  
 
   - Back to School: **160.61% ROI | 149.99% lifetime**
-    <img width="637" height="343" alt="image" src="https://github.com/user-attachments/assets/c8742900-5b4e-4e3b-a140-42ef61bdf872" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/c8742900-5b4e-4e3b-a140-42ef61bdf872" />  
 
   - Summer Promo: **137.95% ROI | 145.85% lifetime**
-    <img width="609" height="341" alt="image" src="https://github.com/user-attachments/assets/7d027170-1dad-4edc-980f-77ebcae18f68" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/7d027170-1dad-4edc-980f-77ebcae18f68" />  
 
   - New Year Push: **131.76% ROI | 146.37% lifetime**
-    <img width="596" height="396" alt="image" src="https://github.com/user-attachments/assets/16fcf940-8c53-4fdc-a16b-83f923c672f6" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/16fcf940-8c53-4fdc-a16b-83f923c672f6" />  
 
 - **Underperformers (Fix or Reduce)** → Volatile trends and weak classification signals
   - Winter Sale: **110.79% ROI | 140.70% lifetime**
-    <img width="579" height="343" alt="image" src="https://github.com/user-attachments/assets/a4981bd2-2a88-4372-849f-427c0e55a540" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/a4981bd2-2a88-4372-849f-427c0e55a540" />  
 
   - Spring Launch: **168.09% ROI | 144.44% lifetime**
-    <img width="634" height="365" alt="image" src="https://github.com/user-attachments/assets/f9ad2a48-638a-4bee-8c0d-15eb9ce49e9c" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/f9ad2a48-638a-4bee-8c0d-15eb9ce49e9c" />  
 
   - Black Friday: **134.42% ROI | 144.43% lifetime**
-    <img width="602" height="484" alt="image" src="https://github.com/user-attachments/assets/bed7fc55-865b-40e2-80c4-9a58a440cfc3" />  
+    <img width="585" height="422" alt="image" src="https://github.com/user-attachments/assets/bed7fc55-865b-40e2-80c4-9a58a440cfc3" />  
 
 - **Optimization Opportunity** → Declining recent trend despite strong history
   - Holiday Deals: **118.36% ROI | 145.14% lifetime**
