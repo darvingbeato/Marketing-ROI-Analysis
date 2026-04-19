@@ -4,7 +4,10 @@
 - **4 campaigns outperforming, 3 underperforming, 1 near target**
 - High-performing campaigns consistently exceed **130% ROI target**
 - Underperformers show weak **lifetime ROI and inconsistent trends**
-- Clear opportunity to **reallocate budget toward high-ROI campaigns and channels**  
+- Clear opportunity to **reallocate budget toward high-ROI campaigns and channels**
+<img width="1397" height="920" alt="image" src="https://github.com/user-attachments/assets/0694e292-3c4c-4451-b3a9-d1a877195699" />  
+
+
 ## Business Problem  
 Marketing budget allocation lacked clarity on:
 - Which campaigns deliver sustainable ROI
